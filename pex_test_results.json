@@ -1,0 +1,605 @@
+{
+    "ai_voices": {
+        "songs/ghostwriter.mp3": {
+            "job_id": "fc-QtLCWanEFYbfVc6AvuSo8x",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.9,
+                    1.0,
+                    0.1,
+                    0.0,
+                    0.1,
+                    0.9,
+                    0.0,
+                    0.1,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.1,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "score": 0.48
+            },
+            "job_completed": true
+        },
+        "songs/slay.mp3": {
+            "job_id": "fc-DvSDKeq7Ck7qSYZf2NBV5R",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    1.0,
+                    1.0,
+                    0.9,
+                    0.9,
+                    1.0,
+                    0.9,
+                    1.0,
+                    0.9,
+                    0.1,
+                    0.9,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.1
+                ],
+                "score": 0.8466666666666667
+            },
+            "job_completed": true
+        },
+        "songs/heartonmysleave.mp3": {
+            "job_id": "fc-FVGzcBBkkDnwfErGxvxM2z",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.0,
+                    1.0,
+                    0.9,
+                    0.1,
+                    1.0,
+                    1.0,
+                    0.0,
+                    1.0,
+                    1.0,
+                    0.1,
+                    1.0,
+                    0.9,
+                    1.0,
+                    1.0,
+                    0.0
+                ],
+                "score": 0.6666666666666667
+            },
+            "job_completed": true
+        },
+        "open_ai/heygen-japanese.mp3": {
+            "job_id": "fc-SZgQ9wXAkgGNIk4Hooqc6Y",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    1.0,
+                    1.0,
+                    0.9,
+                    0.9,
+                    0.1,
+                    1.0,
+                    0.1
+                ],
+                "score": 0.7142857142857143
+            },
+            "job_completed": true
+        },
+        "open_ai/age-of-learning-math.mp3": {
+            "job_id": "fc-d6XURBKdSX1CDvL5qxAqH4",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    1.0,
+                    1.0,
+                    0.9,
+                    1.0,
+                    1.0
+                ],
+                "score": 0.9800000000000001
+            },
+            "job_completed": true
+        },
+        "open_ai/dimagi-sheng-breastfeeding.mp3": {
+            "job_id": "fc-7BG1OZ9ZnyxEkNYaQtHfkm",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    1.0,
+                    0.1,
+                    1.0,
+                    1.0,
+                    0.9,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "score": 0.875
+            },
+            "job_completed": true
+        },
+        "open_ai/dimagi-sheng-nutrition.mp3": {
+            "job_id": "fc-OJTvHVgelMxCyMzgAW9Owe",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "score": 0.9090909090909092
+            },
+            "job_completed": true
+        },
+        "open_ai/age-of-learning-reading.mp3": {
+            "job_id": "fc-7dzGHokT3dd6fy74jpxLuk",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    1.0,
+                    1.0,
+                    0.0,
+                    1.0,
+                    0.0
+                ],
+                "score": 0.6
+            },
+            "job_completed": true
+        },
+        "open_ai/age-of-learning-rainforest.mp3": {
+            "job_id": "fc-y2KmsxLiccPqqUOhkRSlgC",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.9,
+                    0.1,
+                    0.1,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "score": 0.35
+            },
+            "job_completed": true
+        },
+        "open_ai/age-of-learning-chemistry.mp3": {
+            "job_id": "fc-u7Qgp8SVE4cjPNczN6ESyD",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.1,
+                    0.9,
+                    0.1,
+                    0.0,
+                    0.0
+                ],
+                "score": 0.22000000000000003
+            },
+            "job_completed": true
+        },
+        "open_ai/livox-portuguese.mp3": {
+            "job_id": "fc-y6LzWMWtnEZzQl0PNKJUHj",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    1.0,
+                    0.9,
+                    1.0,
+                    0.9,
+                    0.1,
+                    0.0
+                ],
+                "score": 0.65
+            },
+            "job_completed": true
+        },
+        "open_ai/heygen-spanish.mp3": {
+            "job_id": "fc-5nD5zELBP6mWAguoHvGmOe",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.9,
+                    1.0
+                ],
+                "score": 0.8428571428571429
+            },
+            "job_completed": true
+        },
+        "open_ai/heygen-french.mp3": {
+            "job_id": "fc-Bku5h6wBEf3E5enKywEIHJ",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    1.0,
+                    0.0,
+                    1.0,
+                    0.1,
+                    1.0,
+                    0.1,
+                    1.0
+                ],
+                "score": 0.6
+            },
+            "job_completed": true
+        },
+        "open_ai/lifespan-ordering.mp3": {
+            "job_id": "fc-fRcPKtB2MBd4lctya6w61M",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    1.0,
+                    0.0,
+                    1.0,
+                    1.0,
+                    0.1
+                ],
+                "score": 0.62
+            },
+            "job_completed": true
+        },
+        "open_ai/livox-english.mp3": {
+            "job_id": "fc-5qxu1Wge41VWs8huVn5hW4",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    1.0,
+                    1.0,
+                    0.9,
+                    0.9,
+                    0.9
+                ],
+                "score": 0.9400000000000001
+            },
+            "job_completed": true
+        },
+        "open_ai/dimagi-sheng-vitamina.mp3": {
+            "job_id": "fc-ycGkyTfKbVRW0EAh0Ghk1a",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.1,
+                    1.0,
+                    1.0,
+                    0.9,
+                    1.0,
+                    1.0,
+                    0.9,
+                    1.0,
+                    0.0,
+                    1.0,
+                    0.1
+                ],
+                "score": 0.7272727272727273
+            },
+            "job_completed": true
+        },
+        "open_ai/heygen-mandarin.mp3": {
+            "job_id": "fc-LmHaQkjh8ev3voDeBDPfXX",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.9,
+                    1.0,
+                    0.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.0,
+                    1.0
+                ],
+                "score": 0.7375
+            },
+            "job_completed": true
+        },
+        "open_ai/lifespan-talking.mp3": {
+            "job_id": "fc-0H9iVBlgmzKDvyibuRSp0d",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.1,
+                    0.9,
+                    1.0,
+                    0.9,
+                    1.0,
+                    1.0
+                ],
+                "score": 0.8166666666666667
+            },
+            "job_completed": true
+        },
+        "open_ai/heygen-german.mp3": {
+            "job_id": "fc-3eqpkBeqEuQt36cNMzPKiA",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    1.0,
+                    0.9,
+                    1.0,
+                    1.0,
+                    0.1,
+                    1.0,
+                    1.0
+                ],
+                "score": 0.8571428571428571
+            },
+            "job_completed": true
+        },
+        "open_ai/age-of-learning-physics.mp3": {
+            "job_id": "fc-FPM1JaGgOkpd8y8AhGw4M8",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.9,
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.9,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.0
+                ],
+                "score": 0.8800000000000001
+            },
+            "job_completed": true
+        }
+    },
+    "real_voices": {
+        "songs/TheWeeknd.mp3": {
+            "job_id": "fc-7IuIGBkdQHCXVBP2N9Pjyo",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.9,
+                    1.0,
+                    0.9,
+                    1.0,
+                    0.9,
+                    1.0,
+                    0.1,
+                    0.9,
+                    0.9,
+                    1.0,
+                    0.1,
+                    0.9,
+                    0.0,
+                    0.9,
+                    0.1
+                ],
+                "score": 0.7066666666666667
+            },
+            "job_completed": true
+        },
+        "songs/Jennie.mp3": {
+            "job_id": "fc-ReofID3IxxZDi1IXf3feXS",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    1.0,
+                    0.9,
+                    1.0,
+                    0.9,
+                    0.9,
+                    0.1,
+                    0.9,
+                    0.9,
+                    0.1,
+                    0.1,
+                    1.0,
+                    0.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "score": 0.72
+            },
+            "job_completed": true
+        },
+        "songs/blackpink.mp3": {
+            "job_id": "fc-JxsHeNSAFkmCy6XPrFQyLn",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.1,
+                    1.0,
+                    0.1,
+                    1.0,
+                    1.0,
+                    0.0,
+                    1.0,
+                    0.9,
+                    1.0,
+                    0.0,
+                    0.0
+                ],
+                "score": 0.6066666666666667
+            },
+            "job_completed": true
+        },
+        "biometriq/iphone15.mp3": {
+            "job_id": "fc-jqYKkpiZad3gS2H6ql3J4o",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.0,
+                    0.1,
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "score": 0.5125
+            },
+            "job_completed": true
+        },
+        "biometriq/pixel8.mp3": {
+            "job_id": "fc-IKfYpYEoI0QKIk4zJop33M",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    1.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.9,
+                    1.0,
+                    0.1
+                ],
+                "score": 0.5714285714285714
+            },
+            "job_completed": true
+        },
+        "biometriq/samsung24.mp3": {
+            "job_id": "fc-ya1YvEnP30BUaaagbygcYN",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    1.0,
+                    0.1,
+                    1.0,
+                    0.1,
+                    1.0,
+                    0.1,
+                    1.0
+                ],
+                "score": 0.6142857142857143
+            },
+            "job_completed": true
+        },
+        "biometriq/nothing.mp3": {
+            "job_id": "fc-SqlA0BcALB66C2eX1Ceszh",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.9,
+                    0.9,
+                    1.0,
+                    0.1,
+                    1.0,
+                    0.1,
+                    1.0
+                ],
+                "score": 0.7142857142857143
+            },
+            "job_completed": true
+        },
+        "open_ai/heygen-reference.mp3": {
+            "job_id": "fc-BNPvd09tq3l6RulMr428xV",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.9,
+                    0.9
+                ],
+                "score": 0.96
+            },
+            "job_completed": true
+        },
+        "open_ai/age-of-learning-reference.mp3": {
+            "job_id": "fc-Vxls9aTj7Jqe4VQNDXFeYN",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.0,
+                    1.0,
+                    0.1,
+                    0.1,
+                    1.0
+                ],
+                "score": 0.44000000000000006
+            },
+            "job_completed": true
+        },
+        "open_ai/dimagi-swahili-reference.mp3": {
+            "job_id": "fc-TjrxCGnAfVDGH9RPoqdJsj",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    1.0,
+                    0.1,
+                    0.1,
+                    0.1,
+                    1.0
+                ],
+                "score": 0.45999999999999996
+            },
+            "job_completed": true
+        },
+        "open_ai/lifespan-reference.mp3": {
+            "job_id": "fc-n1YsCNLUVZlrRIe2H88gC5",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "score": 1.0
+            },
+            "job_completed": true
+        },
+        "open_ai/livox-reference.mp3": {
+            "job_id": "fc-luW38PZiXzYFjRIIHC5uiD",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.1,
+                    1.0
+                ],
+                "score": 0.6833333333333333
+            },
+            "job_completed": true
+        },
+        "open_ai/dimagi-sheng-reference.mp3": {
+            "job_id": "fc-Q0ZtqCo5xJFsSerkLPi2NA",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.9,
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.9
+                ],
+                "score": 0.96
+            },
+            "job_completed": true
+        }
+    }
+}

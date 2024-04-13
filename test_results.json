@@ -1,0 +1,861 @@
+{
+    "ai_voices": {
+        "ljspeech_wavegan/LJ001-0002_gen.wav": {
+            "job_id": "fc-KpAU1UgggzhZ4itnXXknXb",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.9,
+                    0.9,
+                    0.9,
+                    0.9,
+                    0.9
+                ],
+                "score": 0.9
+            },
+            "job_completed": true
+        },
+        "ljspeech_wavegan/LJ001-0012_gen.wav": {
+            "job_id": "fc-AE01Y2asgEeXva1647aQfQ",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    1.0,
+                    1.0,
+                    0.1,
+                    0.9,
+                    0.1
+                ],
+                "score": 0.62
+            },
+            "job_completed": true
+        },
+        "ljspeech_wavegan/LJ001-0024_gen.wav": {
+            "job_id": "fc-TSJARy1nKezV8aoCpGuBj4",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    1.0,
+                    1.0,
+                    0.1,
+                    0.0,
+                    1.0
+                ],
+                "score": 0.62
+            },
+            "job_completed": true
+        },
+        "ljspeech_wavegan/LJ001-0013_gen.wav": {
+            "job_id": "fc-TPFG8EnFOaGVuIt0DbwqxS",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.9,
+                    0.9,
+                    0.9,
+                    0.9,
+                    0.1
+                ],
+                "score": 0.74
+            },
+            "job_completed": true
+        },
+        "ljspeech_wavegan/LJ001-0003_gen.wav": {
+            "job_id": "fc-AMwYg2ExLwqL65iqRBQmBJ",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.1,
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.1
+                ],
+                "score": 0.64
+            },
+            "job_completed": true
+        },
+        "ljspeech_wavegan/LJ001-0027_gen.wav": {
+            "job_id": "fc-PIvRwsK7pvhbrdW2cAlqnc",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.9,
+                    1.0,
+                    0.1,
+                    0.1,
+                    0.9
+                ],
+                "score": 0.6
+            },
+            "job_completed": true
+        },
+        "ljspeech_wavegan/LJ001-0018_gen.wav": {
+            "job_id": "fc-8rUprUiV5Z2sP6rTrmlcjs",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.0,
+                    1.0
+                ],
+                "score": 0.8
+            },
+            "job_completed": true
+        },
+        "ljspeech_wavegan/LJ001-0008_gen.wav": {
+            "job_id": "fc-48qzdKyvgrHl9HwvswMa6A",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "score": 1.0
+            },
+            "job_completed": true
+        },
+        "ljspeech_wavegan/LJ001-0001_gen.wav": {
+            "job_id": "fc-DzfAHdps9TpGXdJ7Lf7eYm",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.1,
+                    1.0,
+                    1.0,
+                    0.0,
+                    1.0
+                ],
+                "score": 0.62
+            },
+            "job_completed": true
+        },
+        "ljspeech_wavegan/LJ001-0011_gen.wav": {
+            "job_id": "fc-yx4rMcJi6zrj7ZenOXIGzX",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    1.0,
+                    0.9,
+                    0.9,
+                    0.1,
+                    0.1
+                ],
+                "score": 0.6
+            },
+            "job_completed": true
+        },
+        "ljspeech_wavegan/LJ001-0010_gen.wav": {
+            "job_id": "fc-R0BiVDWkErkybItqzsMraX",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    1.0,
+                    0.9,
+                    0.9,
+                    0.9,
+                    0.1
+                ],
+                "score": 0.76
+            },
+            "job_completed": true
+        },
+        "ljspeech_wavegan/LJ001-0026_gen.wav": {
+            "job_id": "fc-AqyW35VFOBjOZvSXdC1fbs",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.1,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "score": 0.82
+            },
+            "job_completed": true
+        },
+        "ljspeech_wavegan/LJ001-0009_gen.wav": {
+            "job_id": "fc-pQun13Df1Iit5zsmxpT0cb",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    1.0,
+                    0.9,
+                    1.0,
+                    0.9,
+                    1.0
+                ],
+                "score": 0.96
+            },
+            "job_completed": true
+        },
+        "ljspeech_wavegan/LJ001-0019_gen.wav": {
+            "job_id": "fc-nEeKBKSAf1txAR8K47YAVT",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    1.0,
+                    0.0,
+                    0.9,
+                    1.0,
+                    0.1
+                ],
+                "score": 0.6
+            },
+            "job_completed": true
+        },
+        "ljspeech_wavegan/LJ001-0023_gen.wav": {
+            "job_id": "fc-Oyn16q36CXXauFrjIiKsUM",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.0
+                ],
+                "score": 0.8
+            },
+            "job_completed": true
+        },
+        "ljspeech_wavegan/LJ001-0005_gen.wav": {
+            "job_id": "fc-TEACq7VYF7CZD6ige1Oboz",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.1,
+                    1.0,
+                    0.9,
+                    0.1,
+                    1.0
+                ],
+                "score": 0.62
+            },
+            "job_completed": true
+        },
+        "ljspeech_wavegan/LJ001-0014_gen.wav": {
+            "job_id": "fc-PYGERuYW1QJEiyym7XuAh5",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.0,
+                    1.0,
+                    0.9,
+                    0.9,
+                    0.9
+                ],
+                "score": 0.74
+            },
+            "job_completed": true
+        },
+        "ljspeech_wavegan/LJ001-0004_gen.wav": {
+            "job_id": "fc-jrK7EsWGgxkrgRpdYKnz7X",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.1,
+                    1.0,
+                    0.9,
+                    0.9,
+                    1.0
+                ],
+                "score": 0.78
+            },
+            "job_completed": true
+        },
+        "ljspeech_wavegan/LJ001-0022_gen.wav": {
+            "job_id": "fc-VKR4G0k5xwlAir4FoeC7X4",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    1.0,
+                    0.0,
+                    0.9,
+                    1.0,
+                    1.0
+                ],
+                "score": 0.78
+            },
+            "job_completed": true
+        },
+        "ljspeech_wavegan/LJ001-0016_gen.wav": {
+            "job_id": "fc-u0QWKBhgjNY03FxaJ3wb3X",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    1.0,
+                    1.0,
+                    0.1,
+                    1.0,
+                    1.0
+                ],
+                "score": 0.82
+            },
+            "job_completed": true
+        },
+        "ljspeech_wavegan/LJ001-0029_gen.wav": {
+            "job_id": "fc-T81bWxatcwGRMjLoVLpmPq",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    1.0,
+                    0.1,
+                    1.0,
+                    0.1,
+                    1.0
+                ],
+                "score": 0.64
+            },
+            "job_completed": true
+        },
+        "ljspeech_wavegan/LJ001-0020_gen.wav": {
+            "job_id": "fc-FRYl0cRR3HnEvW6LuSCeFX",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.1,
+                    1.0
+                ],
+                "score": 0.82
+            },
+            "job_completed": true
+        },
+        "ljspeech_wavegan/LJ001-0021_gen.wav": {
+            "job_id": "fc-AfhRvzEGZwMJXekBm6Rrrd",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "score": 1.0
+            },
+            "job_completed": true
+        },
+        "ljspeech_wavegan/LJ001-0017_gen.wav": {
+            "job_id": "fc-WIXhkogyLQTF7vrLeWwRGi",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.9,
+                    0.1,
+                    0.9,
+                    0.1,
+                    1.0
+                ],
+                "score": 0.6
+            },
+            "job_completed": true
+        },
+        "jsut_wavegan/BASIC5000_0019_gen.wav": {
+            "job_id": "fc-ACiUQVJ9MSP8MelR3PbSMK",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.0,
+                    0.9,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "score": 0.78
+            },
+            "job_completed": true
+        },
+        "jsut_wavegan/BASIC5000_0021_gen.wav": {
+            "job_id": "fc-cbtAziQikYvfpNyEGhKEPO",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.9,
+                    0.1,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "score": 0.8
+            },
+            "job_completed": true
+        },
+        "jsut_wavegan/BASIC5000_0020_gen.wav": {
+            "job_id": "fc-bF2kgkHPbNN2ZHp0NtBVTF",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.9,
+                    0.0,
+                    1.0,
+                    0.9,
+                    0.9
+                ],
+                "score": 0.74
+            },
+            "job_completed": true
+        },
+        "ljspeech_melgan/LJ001-0024_gen.wav": {
+            "job_id": "fc-MIRJD09RzPOv8KR6NR49Yx",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.1
+                ],
+                "score": 0.82
+            },
+            "job_completed": true
+        },
+        "ljspeech_melgan/LJ001-0018_gen.wav": {
+            "job_id": "fc-Z7aSpR73H9o9Lumof41Ajp",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.1,
+                    1.0,
+                    0.1,
+                    0.1,
+                    1.0
+                ],
+                "score": 0.45999999999999996
+            },
+            "job_completed": true
+        },
+        "ljspeech_melgan/LJ001-0019_gen.wav": {
+            "job_id": "fc-IVjc139sXNEiWZn8FkZUY5",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.9,
+                    1.0,
+                    0.1,
+                    0.9,
+                    0.0
+                ],
+                "score": 0.58
+            },
+            "job_completed": true
+        },
+        "ljspeech_melgan/LJ001-0023_gen.wav": {
+            "job_id": "fc-HNFautU8XwAKRxOcNYBIue",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.1,
+                    0.9,
+                    0.9,
+                    1.0,
+                    0.0
+                ],
+                "score": 0.58
+            },
+            "job_completed": true
+        },
+        "ljspeech_melgan/LJ001-0015_gen.wav": {
+            "job_id": "fc-B6kitzKG5ErfwFJSFnNgVv",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.1
+                ],
+                "score": 0.82
+            },
+            "job_completed": true
+        },
+        "ljspeech_melgan/LJ001-0022_gen.wav": {
+            "job_id": "fc-4XkDDLYZIXjdJitVDW7auW",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.1,
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.9
+                ],
+                "score": 0.8
+            },
+            "job_completed": true
+        },
+        "ljspeech_melgan/LJ001-0016_gen.wav": {
+            "job_id": "fc-scGQ2dUbXsOF87uFWwGSGU",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.9,
+                    0.1,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "score": 0.8
+            },
+            "job_completed": true
+        },
+        "ljspeech_melgan/LJ001-0020_gen.wav": {
+            "job_id": "fc-8PVhkAVJiiCqVR1UuVDltW",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    1.0,
+                    0.1,
+                    0.9,
+                    1.0,
+                    1.0
+                ],
+                "score": 0.8
+            },
+            "job_completed": true
+        },
+        "ljspeech_melgan/LJ001-0021_gen.wav": {
+            "job_id": "fc-VIZs8oaPuHwJlzpuMxYv57",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.1,
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.9
+                ],
+                "score": 0.8
+            },
+            "job_completed": true
+        },
+        "ljspeech_melgan/LJ001-0017_gen.wav": {
+            "job_id": "fc-Qlj8TZfvU9H1GuVfaaFOhv",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.1,
+                    0.0,
+                    0.0,
+                    0.9,
+                    1.0
+                ],
+                "score": 0.4
+            },
+            "job_completed": true
+        }
+    },
+    "real_voices": {
+        "ljspeech/LJ002-0020.wav": {
+            "job_id": "fc-Hx5nmHyPRn4cwkPWsrmYpQ",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.1,
+                    0.1,
+                    0.1,
+                    0.1,
+                    1.0
+                ],
+                "score": 0.27999999999999997
+            },
+            "job_completed": true
+        },
+        "ljspeech/LJ001-0104.wav": {
+            "job_id": "fc-eHvbUiygjfBzKJY3ahYPIn",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.1,
+                    0.1,
+                    0.1,
+                    0.1,
+                    1.0
+                ],
+                "score": 0.27999999999999997
+            },
+            "job_completed": true
+        },
+        "ljspeech/LJ001-0003.wav": {
+            "job_id": "fc-T4PJPpk6Mr0yV7byWqGrC9",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.9,
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.1
+                ],
+                "score": 0.8
+            },
+            "job_completed": true
+        },
+        "ljspeech/LJ001-0017.wav": {
+            "job_id": "fc-bNaXBTmdd1LE8CZ5t5UZR7",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.1,
+                    0.1,
+                    0.1,
+                    0.1,
+                    0.0
+                ],
+                "score": 0.08
+            },
+            "job_completed": true
+        },
+        "ljspeech/LJ001-0002.wav": {
+            "job_id": "fc-2QekKXGp8BGxCFz8EXGGdR",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.1,
+                    0.1,
+                    0.1,
+                    0.1,
+                    0.1
+                ],
+                "score": 0.1
+            },
+            "job_completed": true
+        },
+        "ljspeech/LJ001-0001.wav": {
+            "job_id": "fc-bNuEBTNfnYdKU4ZwjR3cbv",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.1,
+                    1.0,
+                    0.1,
+                    0.1,
+                    1.0
+                ],
+                "score": 0.45999999999999996
+            },
+            "job_completed": true
+        },
+        "ljspeech/LJ001-0005.wav": {
+            "job_id": "fc-RaPIJ8siDoCO4nFRL6X7vp",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.1,
+                    0.1,
+                    1.0,
+                    1.0,
+                    0.9
+                ],
+                "score": 0.62
+            },
+            "job_completed": true
+        },
+        "ljspeech/LJ001-0010.wav": {
+            "job_id": "fc-gTu9ljbEoAbSA1ko4E3lW4",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.9,
+                    0.9,
+                    0.1,
+                    0.9,
+                    0.9
+                ],
+                "score": 0.74
+            },
+            "job_completed": true
+        },
+        "ljspeech/LJ001-0006.wav": {
+            "job_id": "fc-VgRn3aReivttoE00OuxM2Z",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.9,
+                    1.0,
+                    0.1,
+                    1.0,
+                    1.0
+                ],
+                "score": 0.8
+            },
+            "job_completed": true
+        },
+        "ljspeech/LJ001-0007.wav": {
+            "job_id": "fc-tl5OtJKfV9bRlvwi28H3eU",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.9,
+                    0.9,
+                    0.9,
+                    1.0,
+                    0.9
+                ],
+                "score": 0.9199999999999999
+            },
+            "job_completed": true
+        },
+        "ljspeech/LJ001-0009.wav": {
+            "job_id": "fc-sXtcyiyKhe3J0aURU6JBRs",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    1.0,
+                    0.9,
+                    0.1,
+                    0.0,
+                    1.0
+                ],
+                "score": 0.6
+            },
+            "job_completed": true
+        },
+        "ljspeech/LJ002-0012.wav": {
+            "job_id": "fc-GIxuI5CFwsUfGq8qKDlAP5",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.1,
+                    0.1,
+                    0.1,
+                    0.1,
+                    0.9
+                ],
+                "score": 0.26
+            },
+            "job_completed": true
+        },
+        "ljspeech/LJ002-0015.wav": {
+            "job_id": "fc-YIL4ljCuArN1CAmuD1hEXJ",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.1,
+                    0.1,
+                    0.0,
+                    0.1,
+                    0.0
+                ],
+                "score": 0.06
+            },
+            "job_completed": true
+        },
+        "ljspeech/LJ001-0078.wav": {
+            "job_id": "fc-dnk5QGdbxe5s3yF4RF1U71",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.1,
+                    0.1,
+                    0.1,
+                    0.1,
+                    1.0
+                ],
+                "score": 0.27999999999999997
+            },
+            "job_completed": true
+        },
+        "jsut/BASIC5000_0119.wav": {
+            "job_id": "fc-CjImoPqoA8r4Ulpbk3vBPi",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.1,
+                    0.1,
+                    0.1,
+                    0.1,
+                    0.1
+                ],
+                "score": 0.1
+            },
+            "job_completed": true
+        },
+        "jsut/BASIC5000_0094.wav": {
+            "job_id": "fc-x2nZvai1FkDGD0kFZe72KC",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.9,
+                    0.0,
+                    0.1,
+                    0.1,
+                    0.1
+                ],
+                "score": 0.24
+            },
+            "job_completed": true
+        },
+        "jsut/BASIC5000_0033.wav": {
+            "job_id": "fc-NhcNCy8V9iThralHzidZFU",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "score": 0.2
+            },
+            "job_completed": true
+        },
+        "jsut/BASIC5000_0031.wav": {
+            "job_id": "fc-ICnAuoMYJz2BKyAKoi65DC",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.1,
+                    0.1
+                ],
+                "score": 0.24
+            },
+            "job_completed": true
+        },
+        "jsut/BASIC5000_0012.wav": {
+            "job_id": "fc-LSiajugZhpfIduyHXMZRAD",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.1,
+                    0.0,
+                    0.9,
+                    0.1,
+                    0.0
+                ],
+                "score": 0.22000000000000003
+            },
+            "job_completed": true
+        },
+        "jsut/BASIC5000_0002.wav": {
+            "job_id": "fc-wXN1fjVtMG6HoolNExH7ix",
+            "results": {
+                "message": "Speech Predicted!",
+                "segmented_prediction": [
+                    0.1,
+                    0.1,
+                    0.0,
+                    0.0,
+                    0.9
+                ],
+                "score": 0.22000000000000003
+            },
+            "job_completed": true
+        }
+    }
+}
